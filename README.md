@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkhenat" alt="sahilkhenat" /></a> </p>
 
-- 🔭 I’m currently working on **interview_programs**
+- 🔭 I’m currently working on **Web and API automation using Playwright-Python, Postman and Ghost-Inspector**
 
-- 🌱 I’m currently learning **Playwright,**
+- 🌱 I’m currently learning **Cypress,Javascript, DevOps, Frontend - HTML, CSS,**
+
+- 🤝 I’m looking for help with **DevOps - Docker, Jenkins, Kubernetes, Github actions, AWS, Terraform, Ansible, Nginx**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sahilkhenat/](https://github.com/sahilkhenat/)
+
+- 💬 Ask me about **Manual Testing(Web, Mobile, Desktop), Automation Testing using Python(Selenium, Playwright)**
 
 - 📫 How to reach me **khenatsahil@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am a 90s kid who likes to stay in nostalgia most of the time. Be it video games, sports, movies, cartoons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
