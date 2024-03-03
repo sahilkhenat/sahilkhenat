@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkhenat" alt="sahilkhenat" /></a> </p>
 
-- 🔭 I’m currently working on **Web and API automation using Playwright-Python, Postman and Ghost-Inspector**
+- 🔭 I’m currently working on **Web and UI automation. Tools - Playwright-Python, Ghost-inspector, Postman**
 
-- 🌱 I’m currently learning **Cypress,Javascript, DevOps, Frontend - HTML, CSS,**
+- 🌱 I’m currently learning **Cypress, Javascript, DevOps, Frontend - HTML, CSS,**
 
 - 🤝 I’m looking for help with **DevOps - Docker, Jenkins, Kubernetes, Github actions, AWS, Terraform, Ansible, Nginx**
 
